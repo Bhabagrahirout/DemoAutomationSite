@@ -1,5 +1,5 @@
 # DemoAutomationSite
-This is contain demo site for automation testing.
+This is contains demo sites for automation testing.
 
 
     • demo.competethemes.com
