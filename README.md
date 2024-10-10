@@ -7,3 +7,5 @@ This is contains demo sites for automation testing.
     • www.orangehrm.com
     • www.saucedemo.com/v1/
     • seleniumpractise.blogspot.com
+    • demo.automationtesting.in
+    
