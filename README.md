@@ -8,5 +8,5 @@ This is contains demo sites for automation testing.
     • www.saucedemo.com/v1/
     • seleniumpractise.blogspot.com
     • demo.automationtesting.in
-    • https://the-internet.herokuapp.com/
+    • the-internet.herokuapp.com/
     
