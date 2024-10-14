@@ -9,4 +9,5 @@ This is contains demo sites for automation testing.
     • seleniumpractise.blogspot.com
     • demo.automationtesting.in
     • the-internet.herokuapp.com/
+    • testautomationpractice.blogspot.com
     
