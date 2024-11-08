@@ -10,4 +10,6 @@ This is contains demo sites for automation testing.
     • demo.automationtesting.in
     • the-internet.herokuapp.com/
     • testautomationpractice.blogspot.com
+    • demo.opencart.com/en-gb?route=account/register
+    
     
